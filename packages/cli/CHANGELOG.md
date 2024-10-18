@@ -1,5 +1,25 @@
 # @backstage/cli
 
+## 0.29.0-next.0
+
+### Minor Changes
+
+- bc71665: **BREAKING**: The `LEGACY_BACKEND_START` flag has been removed, along with support for `src/run.ts` as the development entry point.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.7.0
+  - @backstage/cli-common@0.1.14
+  - @backstage/cli-node@0.2.9
+  - @backstage/config@1.2.0
+  - @backstage/config-loader@1.9.1
+  - @backstage/errors@1.2.4
+  - @backstage/eslint-plugin@0.1.10
+  - @backstage/integration@1.15.1
+  - @backstage/release-manifests@0.0.11
+  - @backstage/types@1.1.1
+
 ## 0.28.0
 
 ### Minor Changes

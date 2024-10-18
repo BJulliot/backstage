@@ -194,5 +194,22 @@
     "@backstage/plugin-user-settings-backend": "0.2.25",
     "@backstage/plugin-user-settings-common": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1729253415",
+    "cyan-trees-bow",
+    "forty-spoons-burn",
+    "green-tools-arrive",
+    "healthy-lions-judge",
+    "mean-years-deliver",
+    "mighty-spoons-suffer",
+    "perfect-goats-mate",
+    "quick-cougars-fry",
+    "red-fishes-press",
+    "renovate-3d822ce",
+    "silent-wasps-whisper",
+    "slimy-jobs-scream",
+    "spotty-snails-worry",
+    "violet-ears-dance",
+    "young-penguins-act"
+  ]
 }

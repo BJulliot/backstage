@@ -1,5 +1,17 @@
 # @backstage/catalog-client
 
+## 1.8.0-next.0
+
+### Minor Changes
+
+- 31c4fe0: The client now automatically splits up very large `getEntitiesByRefs` calls into several smaller requests behind the scenes when needed. This ensures that each individual request does not exceed common Express.js request body limits or overload the server.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.7.0
+  - @backstage/errors@1.2.4
+
 ## 1.7.1
 
 ### Patch Changes
